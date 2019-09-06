@@ -1,5 +1,5 @@
 Meeting 1:
 08/06/2019 @ 11:47AM.
 Location: Eaton 2
-All in attendance.
-
+Members: All in attendance.
+Meeting outcome: Decided on C++ language and discussed next meeting time. 
